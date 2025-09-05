@@ -59,6 +59,66 @@ to provide some kind of protection circuit.
 
 Panal View
 
-<img width="530" height="407" alt="image" src="https://github.com/user-attachments/assets/2498616c-ab3b-48b4-a776-ae121d90bdac" />
+<img width="514" height="397" alt="image" src="https://github.com/user-attachments/assets/3ef833ac-9e9f-43f3-a3c6-82597f9290c5" />
 
+Control Circuit
+<img width="478" height="324" alt="image" src="https://github.com/user-attachments/assets/9c0ac4b1-455b-441a-8e46-abf3ae111e6d" />
+
+<img width="682" height="866" alt="image" src="https://github.com/user-attachments/assets/f726459f-aa44-49a7-96ac-a3388333dbf8" />
+
+ Flowchart 
+
+<img width="471" height="857" alt="image" src="https://github.com/user-attachments/assets/df46d46f-65aa-4fce-97c0-85453c575438" />
+
+ Working 
+ 
+Current Protection Wi-Fi monitoring system is an integrated circuit which uses electronic 
+based circuit for protection. It has a current sensor to determine the amount of current flowing 
+through circuit. A microcontroller which communicate with the surrounding elements such as 
+sensors, Relay, indicator, Node MCU, etc. The working of Circuit is simple and easy to 
+understand.
+
+Our protection circuit consists of two circuits one is power circuit and another one is control 
+circuit. The Control circuit consists of Current sensor, Arduino UNO, Relay, Switch and a 
+Node MCU. The power circuit consists of a Fuse, Relay contacts and a Load. 
+
+When we give supply to the circuit the current starts flowing in the circuit the current sensor 
+senses the amount of current flowing through the load and transfers the data collected from 
+load to Microcontroller. Then Microcontroller calculate the received data in code, and if it 
+found that the value is in normal operating current range then it will turn on Green indicator 
+indicating normal condition. If Overload above normal range then it will turn on Orange 
+Indicator indicating Overload condition. If it founds Short circuit condition then it will turn on 
+Red indicator indicating Short circuit condition. 
+
+The Circuit breaker in the circuit plays an important role to cut off the Load circuit from the 
+input in case of Overload or Short circuit condition. 
+
+After the fault is cleared we can reset circuit using a reset switch provided on panel. 
+
+The data received from current sensor is transferred to cloud for monitoring and storing by 
+NodeMCU which we can use to study the circuit to improve load sustainability by rectifying 
+the causes before any breakdown of the equipment.
+
+ThingSpeak Cloud Monitoring
+<img width="573" height="391" alt="image" src="https://github.com/user-attachments/assets/5d4bbee8-5796-4002-ac2e-56080f5c292f" />
+
+
+CONCLUSION 
+ 
+I conclude that our Project "Microcontroller Based Current Protection with Wi-Fi 
+Monitoring" will protect the equipment from overload current, short-circuit current under 
+unsafe/ faulty conditions in any sector Industrial, commercial, domestic for both loads AC/DC 
+supply. 
+
+The microcontroller based current protection with a Wi-Fi monitoring system is easy to 
+operate and use, and also protects the personnel from electrical shocks. The panel also gives 
+visual indication of faulty condition and alarm sounds because of which the operators get 
+alert. The panel also comes with interlocking technology which means without rectifying the 
+fault the system will not give output. 
+
+The wireless monitoring will help us to analyze the fluctuations in current and load graphs for 
+modifying the design. This will improve the reliability and efficiency of the system. 
+The microcontroller based current protection with a Wi-Fi monitoring system is integrated 
+system which is one of the steps towards automation and smart monitoring which will be used 
+in future circuit breakers for protection. 
 
