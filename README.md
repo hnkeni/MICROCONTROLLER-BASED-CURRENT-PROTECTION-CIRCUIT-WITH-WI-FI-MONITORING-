@@ -102,7 +102,9 @@ NodeMCU which we can use to study the circuit to improve load sustainability by 
 the causes before any breakdown of the equipment.
 
 ThingSpeak Cloud Monitoring
+
 <img width="573" height="391" alt="image" src="https://github.com/user-attachments/assets/5d4bbee8-5796-4002-ac2e-56080f5c292f" />
+
 
 
 CONCLUSION 
