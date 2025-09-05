@@ -1,4 +1,4 @@
-# MICROCONTROLLER-BASED-CURRENT-PROTECTION-CIRCUIT-WITH-WI-FI-MONITORING
+# MICROCONTROLLER BASED CURRENT PROTECTION CIRCUIT WITH WI-FI MONITORING
 
 Every circuit requires some kind of protection from the conditions such as overload and short 
 circuit which occurs because of the overload on circuit or overcurrent flowing in a circuit. 
