@@ -62,9 +62,11 @@ Panal View
 <img width="514" height="397" alt="image" src="https://github.com/user-attachments/assets/3ef833ac-9e9f-43f3-a3c6-82597f9290c5" />
 
 Control Circuit
+
 <img width="478" height="324" alt="image" src="https://github.com/user-attachments/assets/9c0ac4b1-455b-441a-8e46-abf3ae111e6d" />
 
 <img width="682" height="866" alt="image" src="https://github.com/user-attachments/assets/f726459f-aa44-49a7-96ac-a3388333dbf8" />
+
 
  Flowchart 
 
