@@ -56,3 +56,9 @@ a worse condition for the circuit if specific protection is not provided. This c
 due to improper design / connection of circuit or inadequate insulation in the circuit. 
  Due to the above determined effects of short-circuiting it is desirable and necessary 
 to provide some kind of protection circuit.
+
+Panal View
+
+<img width="530" height="407" alt="image" src="https://github.com/user-attachments/assets/2498616c-ab3b-48b4-a776-ae121d90bdac" />
+
+
