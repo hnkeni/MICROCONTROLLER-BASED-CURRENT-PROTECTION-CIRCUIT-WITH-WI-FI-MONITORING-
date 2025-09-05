@@ -126,3 +126,7 @@ The microcontroller based current protection with a Wi-Fi monitoring system is i
 system which is one of the steps towards automation and smart monitoring which will be used 
 in future circuit breakers for protection. 
 
+Project Report
+
+[Project ReportHK.pdf](https://github.com/user-attachments/files/22173823/Project.ReportHK.pdf)
+
